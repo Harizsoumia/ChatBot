@@ -1,0 +1,23 @@
+{
+  "greetings": {
+    "keywords": ["hello", "hi", "hey", "greetings", "yo", "salut"],
+    "responses": [
+      "Hello {name}! Splendid to see you interacting with the control layer.",
+      "Hi {name}! Welcome back to the DecodeLabs workspace. How can I help you today?",
+      "Hey {name}! Logic engine is fully operational."
+    ]
+  },
+  "purpose": {
+    "keywords": ["purpose", "why", "role", "platform"],
+    "responses": [
+      "I am a 'White Box' logic engine built to ensure 100% hard-coded safety and zero hallucination risk.",
+      "My current purpose is to act as a deterministic guardrail layer for data processing, {name}."
+    ]
+  },
+  "help": {
+    "keywords": ["help", "support", "commands", "options"],
+    "responses": [
+      "I can answer questions about my purpose, greet you dynamically, or safely close the loop when you tell me to exit."
+    ]
+  }
+}
