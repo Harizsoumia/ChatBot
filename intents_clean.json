@@ -1,0 +1,83 @@
+{
+  "greetings": {
+    "keywords": ["hello", "hi", "hey", "greetings", "yo", "salut"],
+    "responses": [
+      "Hello {name}! Welcome to your English Learning Hub. How can I help you improve today?",
+      "Hi {name}! I'm here to help you master English basics. What would you like to learn?",
+      "Hey {name}! Ready to enhance your English skills? Ask me about grammar, vocabulary, or anything else!"
+    ]
+  },
+  "purpose": {
+    "keywords": ["purpose", "why", "role", "who are you"],
+    "responses": [
+      "I'm an English Learning Assistant designed to help you master English basics. I can teach you grammar, vocabulary, sentence structure, and more!",
+      "My purpose is to explain English lessons clearly and help you understand the fundamentals of the English language, {name}."
+    ]
+  },
+  "help": {
+    "keywords": ["help", "support", "commands", "options", "what can you do"],
+    "responses": [
+      "I can teach you about: grammar rules, parts of speech, verb tenses, sentence structure, punctuation, common mistakes, vocabulary, and word usage. Just ask me about any of these topics, {name}!"
+    ]
+  },
+  "parts_of_speech": {
+    "keywords": ["parts of speech", "noun", "verb", "adjective", "adverb", "pronoun", "preposition", "conjunction"],
+    "responses": [
+      "Great question, {name}! Here are the main parts of speech:\n\nNOUN - A word that represents a person, place, thing, or idea. Example: 'cat', 'Paris', 'happiness'\n\nVERB - An action or state of being. Example: 'run', 'is', 'think'\n\nADJECTIVE - Describes or modifies a noun. Example: 'beautiful', 'tall', 'happy'\n\nADVERB - Modifies a verb, adjective, or another adverb (often ends in -ly). Example: 'quickly', 'very', 'slowly'\n\nPRONOUN - Replaces a noun to avoid repetition. Example: 'he', 'she', 'it', 'they'\n\nPREPOSITION - Shows relationship between words. Example: 'in', 'on', 'at', 'between'\n\nCONJUNCTION - Connects words or sentences. Example: 'and', 'but', 'or'\n\nTry identifying parts of speech in sentences you read!"
+    ]
+  },
+  "verb_tenses": {
+    "keywords": ["verb tense", "tense", "past", "present", "future", "continuous", "perfect"],
+    "responses": [
+      "Excellent! Let me break down English verb tenses for you, {name}:\n\nSIMPLE PAST - Completed action. Example: 'I walked to school.'\n\nSIMPLE PRESENT - Habitual action or fact. Example: 'I walk to school every day.'\n\nSIMPLE FUTURE - Action that will happen. Example: 'I will walk to school tomorrow.'\n\nPRESENT CONTINUOUS - Action happening now. Example: 'I am walking to school.'\n\nPAST CONTINUOUS - Action that was ongoing. Example: 'I was walking when it rained.'\n\nPRESENT PERFECT - Action started in past, continuing or just completed. Example: 'I have walked many miles.'\n\nPAST PERFECT - Action completed before another past action. Example: 'I had walked before it rained.'\n\nThe key is understanding WHEN the action occurs. Would you like more details on any specific tense?"
+    ]
+  },
+  "sentence_structure": {
+    "keywords": ["sentence", "structure", "subject", "predicate", "simple sentence", "compound", "complex"],
+    "responses": [
+      "Great topic, {name}! Here's how sentences work:\n\nSIMPLE SENTENCE - One independent clause (subject + verb). Example: 'The cat sleeps.'\n\nCOMPOUND SENTENCE - Two independent clauses joined by 'and', 'but', or 'or'. Example: 'The cat sleeps, but the dog runs.'\n\nCOMPLEX SENTENCE - One independent clause + one or more dependent clauses. Example: 'When the sun rises, the birds sing.'\n\nSUBJECT - WHO or WHAT is doing the action. Example: 'The dog' in 'The dog barks.'\n\nPREDICATE - WHAT the subject is doing. Example: 'barks' in 'The dog barks.'\n\nCOMPLETE SENTENCE needs: 1) Subject 2) Verb 3) Complete thought\n\nRemember: A sentence without a subject or verb is called a fragment and is incomplete!"
+    ]
+  },
+  "punctuation": {
+    "keywords": ["punctuation", "period", "comma", "apostrophe", "semicolon", "colon", "exclamation"],
+    "responses": [
+      "Perfect! Let me explain punctuation marks, {name}:\n\nPERIOD - Ends a sentence. Example: 'I am happy.'\n\nCOMMA - Separates items or clauses. Example: 'I like apples, oranges, and bananas.'\n\nEXCLAMATION MARK - Shows strong emotion or emphasis. Example: 'Watch out!'\n\nQUESTION MARK - Ends a question. Example: 'What time is it?'\n\nAPOSTROPHE - Shows possession or contractions. Example: 'John's book' or 'don't' (do not)\n\nSEMICOLON - Joins related independent clauses. Example: 'I love reading; it relaxes me.'\n\nCOLON - Introduces a list or explanation. Example: 'I need three things: pen, paper, and notebook.'\n\nQUOTATION MARKS - Shows direct speech. Example: She said, 'Hello!'\n\nUsing correct punctuation makes your writing clear and professional!"
+    ]
+  },
+  "common_mistakes": {
+    "keywords": ["mistake", "error", "wrong", "incorrect", "common error", "confuse"],
+    "responses": [
+      "Let me highlight common English mistakes, {name}:\n\nTHEIR vs THERE vs THEY'RE\n- Their: Possessive. 'Their house is big.'\n- There: Location. 'The book is there.'\n- They're: Contraction of 'they are'. 'They're happy.'\n\nYOUR vs YOU'RE\n- Your: Possessive. 'Your pen is blue.'\n- You're: 'You are'. 'You're amazing!'\n\nITS vs IT'S\n- Its: Possessive. 'The dog wagged its tail.'\n- It's: 'It is'. 'It's a beautiful day.'\n\nSUBJECT-VERB AGREEMENT\n- Wrong: 'She go to school.'\n- Correct: 'She goes to school.'\n\nDOUBLE NEGATIVES\n- Wrong: 'I don't want no trouble.'\n- Correct: 'I don't want any trouble.'\n\nLYING vs LAYING\n- Lie: To recline. 'I lie on the bed.'\n- Lay: To place something. 'I lay the book on the table.'\n\nAvoid these, and your writing will be much stronger!"
+    ]
+  },
+  "vocabulary": {
+    "keywords": ["vocabulary", "word", "meaning", "synonym", "antonym", "definition"],
+    "responses": [
+      "Great! Let me help you build vocabulary, {name}:\n\nSYNONYMS - Words with similar meanings:\n- Big = Large, Huge, Enormous\n- Happy = Joyful, Delighted, Content\n- Run = Sprint, Jog, Dash\n\nANTONYMS - Words with opposite meanings:\n- Big ≠ Small\n- Happy ≠ Sad\n- Fast ≠ Slow\n\nCONTEXT CLUES - Understand new words from surrounding sentences:\n- 'The luminous moon shined brightly.' (Luminous = bright)\n\nPREFIXES - Added at the beginning to change meaning:\n- Un- = not (unhappy = not happy)\n- Re- = again (redo = do again)\n- Pre- = before (preview = view before)\n\nSUFFIXES - Added at the end:\n- -ly = manner (quickly, happily)\n- -ing = action (running, playing)\n- -tion = noun (action, nation)\n\nTip: Read more, listen carefully, and practice using new words in sentences. This is the best way to expand vocabulary!"
+    ]
+  },
+  "article_usage": {
+    "keywords": ["article", "grammar rule"],
+    "responses": [
+      "Excellent question about articles, {name}! Here's the guide:\n\nTHE - Definite article, used for specific things:\n- 'I like the book.' (A specific book)\n- 'She went to the store.' (A specific store)\n\nA - Indefinite article, used for non-specific things (before consonant sounds):\n- 'I need a pen.' (Any pen)\n- 'She is a teacher.' (One of many teachers)\n\nAN - Indefinite article, used before vowel sounds:\n- 'I need an apple.' (before 'a' sound)\n- 'He is an engineer.' (before 'e' sound)\n\nNO ARTICLE - For general statements:\n- 'I love cats.' (Cats in general)\n- 'Water is important.' (Water in general)\n\nRULE: Use 'A' or 'AN' for first mention, 'THE' for second mention:\n- 'I saw a dog. The dog was brown.'\n\nPractice: Try reading sentences and identifying which articles are used!"
+    ]
+  },
+  "prepositions": {
+    "keywords": ["preposition", "in", "on", "at", "between", "among", "during"],
+    "responses": [
+      "Let me explain prepositions, {name}! They show relationships between words:\n\nLOCATION PREPOSITIONS:\n- In: 'The book is in the drawer.'\n- On: 'The pen is on the desk.'\n- At: 'I am at school.'\n- Under: 'The cat is under the table.'\n- Between: 'Stand between us.'\n- Among: 'She sat among her friends.'\n\nTIME PREPOSITIONS:\n- At: 'I wake at 7 AM.' (specific time)\n- On: 'We meet on Monday.' (specific day)\n- In: 'She was born in 1995.' (year)\n- During: 'I sleep during the night.'\n- Before: 'Come before noon.'\n- After: 'See you after class.'\n\nMOVEMENT PREPOSITIONS:\n- Into: 'She ran into the room.'\n- Out of: 'They came out of the building.'\n- Through: 'We walked through the forest.'\n- Across: 'I swim across the lake.'\n\nTip: Prepositions often go with the same verbs. Learn them in phrases!"
+    ]
+  },
+  "writing_tips": {
+    "keywords": ["writing", "write", "essay", "paragraph", "tip", "advice"],
+    "responses": [
+      "Here are essential writing tips for you, {name}:\n\nPARAGRAPH STRUCTURE:\n1. Topic sentence - Main idea at the start\n2. Supporting sentences - Details and examples\n3. Conclusion sentence - Summarize the idea\n\nCLEAR WRITING TIPS:\n- Use active voice: 'She wrote the letter.' (not 'The letter was written by her.')\n- Be specific: 'The blue car' (not 'The thing')\n- Avoid repetition: Use synonyms instead\n- Keep sentences short and simple\n- Use transitions: 'However', 'Additionally', 'In conclusion'\n\nPROOFREADING CHECKLIST:\n- Check spelling\n- Check punctuation\n- Verify subject-verb agreement\n- Check for complete sentences\n- Read aloud to catch errors\n\nESSAY STRUCTURE:\n- Introduction: Hook + thesis statement\n- Body: 3 paragraphs with supporting details\n- Conclusion: Restate thesis + final thoughts\n\nRemember: Good writing takes practice! Write regularly and read others' work to improve!"
+    ]
+  },
+  "phonetics": {
+    "keywords": ["pronunciation", "phonetic", "sound", "vowel", "consonant", "stress"],
+    "responses": [
+      "Let me help with pronunciation and phonetics, {name}:\n\nVOWELS - A, E, I, O, U:\n- Each has a long sound (say the letter name): 'cake' (long a)\n- And a short sound: 'cat' (short a)\n\nCONSONANTS - All other letters:\n- Some have hard sounds: 'c' in 'cat', 'g' in 'good'\n- Some have soft sounds: 'c' in 'cent', 'g' in 'giraffe'\n\nWORD STRESS - Emphasis on certain syllables:\n- 'PRESent' vs 'preSENT' (different meanings!)\n- 'PREfer' vs 'preFER'\n\nBLENDING - Sounds that go together:\n- 'th' in 'think'\n- 'ch' in 'chair'\n- 'sh' in 'share'\n\nPRACTICE TIP: Listen to native speakers, record yourself, and compare. This is the best way to improve pronunciation!\n\nWould you like help with specific words or sounds?"
+    ]
+  }
+}

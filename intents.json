@@ -8,7 +8,7 @@
     ]
   },
   "purpose": {
-    "keywords": ["purpose", "why", "role", "what", "who are you"],
+    "keywords": ["purpose", "why", "role", "who are you"],
     "responses": [
       "I'm an English Learning Assistant designed to help you master English basics. I can teach you grammar, vocabulary, sentence structure, and more!",
       "My purpose is to explain English lessons clearly and help you understand the fundamentals of the English language, {name}."
@@ -57,7 +57,7 @@
     ]
   },
   "article_usage": {
-    "keywords": ["article", "a", "an", "the", "grammar rule"],
+    "keywords": ["article", "grammar rule"],
     "responses": [
       "Excellent question about articles, {name}! Here's the guide:\n\n📖 THE - Definite article, used for specific things:\n- 'I like the book.' (A specific book)\n- 'She went to the store.' (A specific store)\n\n📖 A - Indefinite article, used for non-specific things (before consonant sounds):\n- 'I need a pen.' (Any pen)\n- 'She is a teacher.' (One of many teachers)\n\n📖 AN - Indefinite article, used before vowel sounds:\n- 'I need an apple.' (before 'a' sound)\n- 'He is an engineer.' (before 'e' sound)\n\n📖 NO ARTICLE - For general statements:\n- 'I love cats.' (Cats in general)\n- 'Water is important.' (Water in general)\n\n✅ RULE: Use 'A' or 'AN' for first mention, 'THE' for second mention:\n- 'I saw a dog. The dog was brown.'\n\nPractice: Try reading sentences and identifying which articles are used!"
     ]

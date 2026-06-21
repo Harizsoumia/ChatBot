@@ -1,16 +1,10 @@
 \# Project 1: Advanced Rule-Based AI Chatbot Logic Engine
 
-
-
 \## 📌 Project Overview
 
 This project delivers a production-grade, rule-based chatbot framework designed under the \*\*Input-Process-Output (IPO)\*\* model guidelines. It serves as a deterministic "White Box" control layer, executing predictable data transformations without hallucination risks.
 
-
-
 Rather than relying on static, hardcoded conditional branches inside the main execution file, this architecture decouples the core decision logic from the data layer by sourcing intents directly from an external JSON-based knowledge base.
-
-
 
 \### 🌟 Advanced Features Implemented:
 
@@ -22,15 +16,9 @@ Rather than relying on static, hardcoded conditional branches inside the main ex
 
 4\. \*\*Variational Feedback Matrix:\*\* Employs randomized payload retrieval arrays to provide dynamic conversation flow variants instead of rigid responses.
 
-
-
 \---
 
-
-
 \## 📂 System Architecture \& Directory Layout
-
-
 
 ```text
 
@@ -42,3 +30,4 @@ rule\_based\_chatbot/
 
 └── intents.json        # External declarative data registry containing intents and keywords
 
+```
